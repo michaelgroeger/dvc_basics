@@ -49,6 +49,7 @@ Thumbs.db
 *.wmv
 
 # data folder
-/cats-dogs
+/cats-dogs/
 /dvc_python_env
 /ml_pipelines/venv
+/does-data-dublicate
